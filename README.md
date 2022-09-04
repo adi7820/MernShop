@@ -36,3 +36,9 @@
 - npm run start (To run backend/server)
 - npm run data:import (To import by default data)
 - npm run data:destroy (To destroy data)
+
+## RESULT
+https://user-images.githubusercontent.com/25850136/188310657-0e1ed837-6427-4269-9d0a-e8d4a12f8351.mp4
+
+
+
