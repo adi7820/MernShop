@@ -1,6 +1,6 @@
 # MernShop
 
-# DESCRIPTION
+## DESCRIPTION
 
 - Full featured shopping cart
 
